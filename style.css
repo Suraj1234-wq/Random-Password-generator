@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(0, 255, 255, 0.495);
+}
+.navbar {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    font-size: 30px;
+}
+
+span {
+    color: blue;
+}
+
+.box2 input{
+    height: 45px;
+    width: 500px;
+    /* display: flex; */
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+     border: none;
+    border-radius: 1rem;
+    background-color: green;
+   
+}
+
+button {
+    height: 45px;
+    width: 200px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    border-radius: 1rem;
+    background-color: lightblue;
+}
