@@ -56,3 +56,15 @@ span {
 .box2 button:hover {
     transform: scale(1.03);
 }
+
+
+@media(max-width : 768px) {
+    .box2 {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+    }
+    .box2 {
+        width: 100%;
+    }
+}
