@@ -27,4 +27,4 @@ This app generates strong and secure passwords instantly.
 
 ### Home Page
 
-![Random Password Generator](./screenshots/password-generator.png)
+![Random Password Generator](password-generator.png)
