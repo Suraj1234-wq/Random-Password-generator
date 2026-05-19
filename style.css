@@ -67,7 +67,7 @@ span {
         display: flex;
         justify-content: center;
     }
-    .box2 {
+    .box2 input{
         width: 100%;
     }
 }
